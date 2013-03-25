@@ -1,0 +1,24 @@
+2012-06-01 23:52:33,941 INFO  [main] oo_lpf.Main: Start Software
+2012-06-01 23:52:33,943 INFO  [main] data.FileHandler: C:\Users\Christian\CloudStation\JAVA\NetBeansProjects\Reflection_Test\src\reflection_test as WorkingDirectory setted
+2012-06-01 23:52:33,943 INFO  [main] data.FileHandler: build Folder already exists
+2012-06-01 23:52:33,946 DEBUG [main] logic.Compiler: Trying to compile..
+2012-06-01 23:52:40,843 INFO  [main] oo_lpf.Main: Start Software
+2012-06-01 23:52:40,845 INFO  [main] data.FileHandler: C:\Users\Christian\CloudStation\JAVA\NetBeansProjects\Reflection_Test\src\reflection_test as WorkingDirectory setted
+2012-06-01 23:52:40,845 INFO  [main] data.FileHandler: build Folder already exists
+2012-06-01 23:52:40,848 DEBUG [main] logic.Compiler: Trying to compile..
+2012-06-01 23:52:40,848 DEBUG [main] logic.Compiler: finished..
+2012-06-01 23:52:40,849 INFO  [main] logic.ModelAnalyzer: TestUnit.class in reflections machinery loaded
+2012-06-01 23:52:40,851 DEBUG [main] logic.ClassModel: The Method "getmID" at "TestUnit" added
+2012-06-01 23:52:40,852 DEBUG [main] logic.ClassModel: The Method "setmID" at "TestUnit" added
+2012-06-01 23:52:40,852 DEBUG [main] logic.ClassModel: The Method "toString" at "TestUnit" added
+2012-06-01 23:52:40,852 DEBUG [main] logic.ClassModel: The Member " mProduct class java.lang.String" at "TestUnit" added
+2012-06-01 23:52:40,852 DEBUG [main] logic.ClassModel: The Member " mOrder class java.lang.String" at "TestUnit" added
+2012-06-01 23:52:40,852 DEBUG [main] logic.ClassModel: The Member " mTest class java.lang.String" at "TestUnit" added
+2012-06-01 23:52:40,852 DEBUG [main] logic.ClassModel: The Member " mDate class java.lang.String" at "TestUnit" added
+2012-06-01 23:52:40,852 DEBUG [main] logic.ClassModel: The Member " mSerial class java.lang.String" at "TestUnit" added
+2012-06-01 23:52:40,853 DEBUG [main] logic.ClassModel: The Member " mMAC class java.lang.String" at "TestUnit" added
+2012-06-01 23:52:40,853 DEBUG [main] logic.ClassModel: The Member " mTestResult boolean" at "TestUnit" added
+2012-06-01 23:52:40,853 DEBUG [main] logic.ClassModel: The Member " mTestResultMinus boolean" at "TestUnit" added
+2012-06-01 23:52:40,853 DEBUG [main] logic.ClassModel: The Member " mTestResultPlus boolean" at "TestUnit" added
+2012-06-01 23:52:40,853 DEBUG [main] logic.ClassModel: The Member " mLie boolean" at "TestUnit" added
+2012-06-01 23:52:40,854 DEBUG [main] logic.ClassModel: The Member " mID int" at "TestUnit" added
